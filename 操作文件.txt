@@ -1,0 +1,6 @@
+上传及更新github
+1、进入相关文件夹，添加自己要上传的程序文件
+2、右键，GitBash
+3、git add 测试.py（需要上传文件的名字）
+4、git commit -m "这是个备注"
+5、git push origin master
